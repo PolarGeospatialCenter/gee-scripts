@@ -17,5 +17,7 @@ Like the mosaics, the geometries are provided as a reference, and are not design
 
 ## Contact
 Steve Foga 
+
 Polar Geospatial Center 
+
 sfoga@umn.edu
