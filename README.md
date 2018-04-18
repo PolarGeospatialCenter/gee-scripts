@@ -16,6 +16,6 @@ The [Alaska geometry](geoms/ak.kml) is simplified to a single geometry, and is t
 Like the mosaics, the geometries are provided as a reference, and are not designed to represent cadastral boundaries. 
 
 ## Contact
-Steve Foga
-Polar Geospatial Center
+Steve Foga 
+Polar Geospatial Center 
 sfoga@umn.edu
